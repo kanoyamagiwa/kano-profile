@@ -1,0 +1,28 @@
+.sen{
+    text-align: center;
+    justify-content: center;
+    position: relative;
+    top: 150px;
+}
+
+.kore{
+  display: inline-block; 
+}
+
+.moji{
+  text-align: center;
+  justify-content: center;
+  padding: 30px;
+  
+}
+
+.sensen{
+  text-align: center;
+  justify-content: center;
+  padding: 30px;
+
+}
+
+.cost{
+  display: inline-block;
+}
